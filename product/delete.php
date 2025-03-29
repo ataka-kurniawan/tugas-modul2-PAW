@@ -1,4 +1,4 @@
-<?php include '../../auth/check_admin.php'; ?>
+
 <?php
 include '../config.php';
 if (isset($_GET['id'])){

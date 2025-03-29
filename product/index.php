@@ -1,4 +1,4 @@
-<?php include '../../auth/check_admin.php'; ?>
+
 <?php
 include '../config.php';
 $query = "SELECT product.id,
