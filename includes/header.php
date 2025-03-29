@@ -72,24 +72,11 @@
                 <h4>Admin Panel</h4>
             </div>
             <ul class="nav flex-column">
-                <li><a href="/web-crunchybite/admin/" class="nav-link"><i class="fa fa-home"></i>
+                <li><a href="/tugas-modul6-paw/index.php" class="nav-link"><i class="fa fa-home"></i>
                         <span>Dashboard</span></a></li>
-                <li><a href="/web-crunchybite/admin/product/index.php" class="nav-link"><i class="fa fa-box"></i>
+                <li><a href="/tugas-modul6-paw/product/index.php" class="nav-link"><i class="fa fa-box"></i>
                         <span>Kelola Produk</span></a></li>
-                <li><a href="/web-crunchybite/admin/category/index.php" class="nav-link"><i class="fa fa-folder"></i>
-                        <span>Kelola Kategori</span></a></li>
-                <li><a href="/web-crunchybite/admin/customer/index.php" class="nav-link"><i class="fa fa-users"></i>
-                        <span>Customers</span></a></li>
-                <li>
-                <li><a href="/web-crunchybite/admin/transaction/index.php" class="nav-link"><i class="fa fa-exchange"></i>
-                        <span>Kelola Transaksi</span></a></li>
-                <li>
-                    <form action="\web-crunchybite\auth\logout.php" method="POST">
-                        <button type="submit" class="nav-link  d-flex align-items-center">
-                            <i class="fa fa-sign-out-alt me-2"></i> <span>Logout</span>
-                        </button>
-                    </form>
-                </li>
+                
 
             </ul>
         </div>
